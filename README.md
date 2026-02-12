@@ -29,3 +29,9 @@ pip install -r requirements.txt
 
 # Run the Lab Interface
 streamlit run app.py
+## 🗺 Project Roadmap
+
+- [x] **Phase 1:** Core Bayesian Stress-Testing (Statistical Rigor)
+- [ ] **Phase 2:** Causal Inference Engine (Integration with EconML)
+- [ ] **Phase 3:** Automated Peer-Review Assistant (LLM-based methodology critique)
+- [ ] **Phase 4:** Open Science Framework (OSF) Integration for direct publishing
