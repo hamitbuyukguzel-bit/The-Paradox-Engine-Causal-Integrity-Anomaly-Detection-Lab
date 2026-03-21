@@ -2,7 +2,7 @@
 
 **The Paradox Engine** is an advanced scientific research framework designed to combat the "Replication Crisis" and automate methodological rigor. It bridges the gap between **Psychology, Economics, and Data Science** by providing a suite of tools for Bayesian stress-testing, p-hacking detection, and causal discovery.
 
-Developed for researchers who demand "Harvard/Princeton level" integrity, this engine doesn't just analyze data—it challenges the validity of the discovery itself.
+Developed for researchers who demand high level integrity, this engine doesn't just analyze data—it challenges the validity of the discovery itself.
 
 ## 🚀 Key Features
 
